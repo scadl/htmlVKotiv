@@ -1,4 +1,4 @@
-# htmlVKotiv
+# Valeriy Kotiv
 
 This is one of my oldest projects. It was made in early 2009, when flash technology was it's blossom in our regional internet segment. At that moment I learned how to build light, but pretty looking site combining HTML, CSS and Flash animation.
 
